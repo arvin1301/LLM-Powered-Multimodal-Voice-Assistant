@@ -27,7 +27,7 @@ cd <your-repo-directory>
 
 
 
-## Install dependencies:
+# Install dependencies:
 
 pip install -q transformers==4.41.0
 pip install bitsandbytes==0.41.3
