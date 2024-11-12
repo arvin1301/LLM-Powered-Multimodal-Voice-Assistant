@@ -94,3 +94,7 @@ Google Text-to-Speech (gTTS): For text-to-speech synthesis.
 
 
 Screenshot:
+
+
+https://github.com/user-attachments/assets/983ee4af-13a4-4d24-8543-46c44ecc8a7d
+
