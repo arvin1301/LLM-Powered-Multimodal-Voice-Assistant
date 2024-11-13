@@ -2,7 +2,7 @@
 
 This project is a multimodal AI voice assistant that processes both audio and image inputs to generate descriptive text outputs and converts them to audio responses. The assistant is built using OpenAI's Whisper for speech recognition, Llava for image-to-text, and gTTS for text-to-speech functionality. This project also features a Gradio interface for user-friendly interactions.
 
-## Features
+# Features
 
 - **Speech-to-Text**: Converts spoken audio input to text using OpenAI's Whisper model.
 - **Image-to-Text**: Provides detailed descriptive analysis of uploaded images using the Llava model.
@@ -10,21 +10,13 @@ This project is a multimodal AI voice assistant that processes both audio and im
 - **Multimodal Interaction**: Supports both image and voice input, providing a flexible, interactive experience.
 - **Gradio Interface**: Easy-to-use web interface for interacting with the assistant.
 
-## Getting Started
+# Getting Started
 
 ### Prerequisites
 
 - Python 3.10.9 or later
 - GPU-enabled system (for better performance with Whisper and Llava models)
 - [Gradio](https://gradio.app/), [Transformers](https://huggingface.co/docs/transformers/), and other required libraries
-
-### Installation
-
-Clone the repository and install the necessary libraries:
-```bash
-git clone <your-repo-url>
-cd <your-repo-directory>
-
 
 
 # Install dependencies:
